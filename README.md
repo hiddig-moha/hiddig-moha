@@ -21,7 +21,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=hiddig-moha&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/17S66uAHzm/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/eng_khaliff?igsh=NmV1NnlnOGxpMWhm&utm_source=ig_contact_invite) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/17S66uAHzm/?mibextid=wwXIfr)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/eng_khaliff?igsh=NmV1NnlnOGxpMWhm&utm_source=ig_contact_invite)
+[![X (Twitter)](https://img.shields.io/badge/X%20(Twitter)-000000?logo=X&logoColor=white)](https://x.com/eng_khalif99?s=21)
 
 <!-- Snake Game Repo View -->
 <div align="center">
