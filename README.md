@@ -1,4 +1,61 @@
-# 💫 Hi 👋, I'm ENG KHALIF  
+<h1 align="center">💫 Hi 👋, I'm ENG KHALIF</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,50:2c4f7c,100:a9c4e4&height=200&section=header&text=Welcome%20to%20ENG%20KHALIF's%20Github&fontColor=1e3a5f&fontSize=30&animation=fadeIn&fontAlignY=38&desc=%3C%2F%3E&descAlignY=60" alt="Banner"/>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-0b1d3a?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://pinterest.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/PINTEREST-1e3a5f?style=flat-square&logo=pinterest&logoColor=white"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/GMAIL-4a78a8?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
+
+<h2 align="center"><i>Technologies</i></h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LINUX-0b1d3a?style=flat-square&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GIT-0b1d3a?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB-0b1d3a?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-1e3a5f?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA-1e3a5f?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SPRING%20BOOT-1e3a5f?style=flat-square&logo=springboot&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-1e3a5f?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NODE.JS-1e3a5f?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/POSTGRESQL-1e3a5f?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MYSQL-1e3a5f?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-4a78a8?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-4a78a8?style=flat-square&logo=css3&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/REACT-4a78a8?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ANGULAR-4a78a8?style=flat-square&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FIGMA-4a78a8?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NOTION-4a78a8?style=flat-square&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CLAUDE-4a78a8?style=flat-square&logo=anthropic&logoColor=white"/>
+</p>
+
+<h2 align="center"><i>Statistics</i></h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1b2e&color=a9c4e4&line=4a78a8&point=ffffff&area=true&hide_border=true" alt="ENG KHALIF's Contribution Graph"/>
+</p>
+
+<h2 align="center"><i>About Me</i></h2>
+
+<p align="center">
+  Hello! My name is <b>ENG KHALIF</b>, and I am a Software Engineer.<br/>
+  I am passionate about learning new technologies, developing innovative projects,<br/>
+  and solving complex problems through programming.<br/>
+  Currently, I am honing my skills in <b>JavaScript, React.js, Java, Spring Boot, and SQL</b>,<br/>
+  focusing on building robust applications and continuously growing within the tech industry.
+</p>
+
+<h2 align="center"><i>Hobbies & Goals</i></h2>
+
+<p align="center">
+  Software Engineer.<br/>
+  <i>"A man without studies is an incomplete being"</i> — <b>Simón Bolívar</b>.
+</p>
 **A passionate Software ENG **  
 
 
