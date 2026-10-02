@@ -43,7 +43,8 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=hiddig-moha&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-## 🌐 Socials:
+🌐 Socials:
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=hiddig-moha&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/17S66uAHzm/?mibextid=wwXIfr)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/eng_khaliff?igsh=NmV1NnlnOGxpMWhm&utm_source=ig_contact_invite)
 [![X (Twitter)](https://img.shields.io/badge/X%20(Twitter)-000000?logo=X&logoColor=white)](https://x.com/eng_khalif99?s=21)
