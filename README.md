@@ -20,7 +20,8 @@
 ![Wave Animation](https://waveify.onrender.com/api/wave?color=%23007CF0&height=150&speed=4&width=1200&amplitude=20&frequency=2&waveType=default)
 
 
-**A passionate Software ENG **  
+**A passionate Software ENG ** 
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=hiddig-moha&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 
 ![Uploading iage.png…](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NHA4ZXRsd2k5N2RpZmgzbnN6dmR6OXpraXpjanBkZWd4OXdyazd4NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bJ4TVNYNUympPgcpem/giphy.gif)
