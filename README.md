@@ -1,104 +1,57 @@
-<h1 align="center">💫 Hi 👋, I'm ENG KHALIF</h1>
+**💫 Hi 👋, I'm ENG KHALIF**
 
-<h3 align="center">Software Engineer | Web & Mobile App Developer</h3>
+**A passionate Software ENG **  
 
-<p align="center">
-  Building modern, scalable and user-friendly digital products.<br/>
-  I turn caffeine into clean code. 💻☕
-</p>
 
-<p align="center">
-  <a href="mailto:khaliifadam99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.facebook.com/share/17S66uAHzm/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://www.instagram.com/eng_khaliff"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://x.com/eng_khalif99"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-</p>
+![Uploading iage.png…](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NHA4ZXRsd2k5N2RpZmgzbnN6dmR6OXpraXpjanBkZWd4OXdyazd4NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bJ4TVNYNUympPgcpem/giphy.gif)
 
----
 
-## 👨‍💻 About Me
+- 🔭 **I’m currently working on:** [Hilal Job Portal](#) — a modern platform connecting job seekers and employers.  
+- 🌱 **I’m currently learning:** Digital Marketing, Flutter  
+- 👯 **I’m looking to collaborate on:** Web & Mobile App Development, and Startup Tech Projects  
+- 🤔 **I’m looking for help with:** Improving UI/UX and backend optimization  
+- 💬 **Ask me about:** Web Development, App Design, Collaboration, and Tech Support  
+- 📫 **How to reach me:** 📧 [khaliifadam99@gmail.com](mailto:khaliifadam99@gmail.com)  
+- ⚡ **Fun fact:** I turn caffeine into clean code. 💻☕ 
 
-I'm a passionate Software Engineer focused on building web and mobile applications that solve real problems. I enjoy turning ideas into polished products, from clean UI/UX to reliable backend systems.
 
-- 🔭 **Currently working on:** **Hilal Job Portal** — a modern platform connecting job seekers and employers
-- 🌱 **Currently learning:** Digital Marketing and Flutter
-- 👯 **Open to collaborate on:** Web & mobile app development and startup tech projects
-- 🤔 **Looking for help with:** UI/UX improvements and backend optimization
-- 💬 **Ask me about:** Web development, app design, collaboration and tech support
-- 📫 **Reach me at:** [khaliifadam99@gmail.com](mailto:khaliifadam99@gmail.com)
 
----
 
-## 💻 Tech Stack
 
-**Languages**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hiddig-moha&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/17S66uAHzm/?mibextid=wwXIfr)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/eng_khaliff?igsh=NmV1NnlnOGxpMWhm&utm_source=ig_contact_invite)
+[![X (Twitter)](https://img.shields.io/badge/X%20(Twitter)-000000?logo=X&logoColor=white)](https://x.com/eng_khalif99?s=21)
 
-**Frontend & Mobile**
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Backend & Databases**
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**Deployment & Tools**
+## 🛠️ My GitHub Stats
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: nowrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=hiddig-moha&show_icons=true&theme=radical&hide_border=true" alt="Hiddig Moha's GitHub Stats" width="300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiddig-moha&theme=radical&hide_border=true" alt="Hiddig Moha's Streak" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiddig-moha&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="300" />
+</div>
 
-**Design**
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![InDesign](https://img.shields.io/badge/InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hiddig-moha&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top languages"/>
-</p>
+[![](https://visitcount.itsvg.in/api?id=hiddig-moha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub streak"/>
-</p>
-
----
-
-## 🤝 Let's Work Together
-
-Have a project, startup idea or collaboration in mind? I'd love to hear from you.
-
-<p align="center">
-  <a href="mailto:khaliifadam99@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-2c4f7c?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/></a>
-</p>
-
-<p align="center">⭐ Thanks for visiting my profile! — <b>ENG KHALIF</b></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
