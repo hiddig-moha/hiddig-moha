@@ -1,3 +1,26 @@
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=hiddig-moha&theme=neon&role=Frontend%20or%20full-stack%20engineer&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="ENG-KHALIF profile banner" />
+
+<br/>
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Frontend%20or%20full-stack%20engineer;Frontend%20or%20full-stack%20engineer;Building%20with%20CSS%20%C2%B7%20HTML%20%C2%B7%20TypeScript;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
+
+<br/>
+
+<a href="https://github.com/hiddig-moha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GitHub" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Profile_views-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Profile views" /> <img src="https://img.shields.io/badge/3_followers-00FFA3?style=for-the-badge&amp;labelColor=0d1117" alt="3 followers" />
+
+</div>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=hiddig-moha&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+
+
 **💫 Hi 👋, I'm ENG KHALIF**
 
 ![Wave Animation](https://waveify.onrender.com/api/wave?color=%23007CF0&height=150&speed=4&width=1200&amplitude=20&frequency=2&waveType=default)
