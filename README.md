@@ -1,5 +1,5 @@
-# 💫 Hi 👋, I'm Ahmed Khalif  
-**A passionate Software ENG from Somalia**  
+# 💫 Hi 👋, I'm ENG KHALIF  
+**A passionate Software ENG **  
 
 
 ![Uploading iage.png…](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NHA4ZXRsd2k5N2RpZmgzbnN6dmR6OXpraXpjanBkZWd4OXdyazd4NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bJ4TVNYNUympPgcpem/giphy.gif)
