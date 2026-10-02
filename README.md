@@ -9,10 +9,6 @@
 
 <br/>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Profile_views-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Profile views" /> <img src="https://img.shields.io/badge/3_followers-00FFA3?style=for-the-badge&amp;labelColor=0d1117" alt="3 followers" />
-
 </div>
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=hiddig-moha&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
