@@ -39,7 +39,7 @@
 
 
 ## 🏆 GitHub Trophies
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=hiddig-moha&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
 ![](https://github-profile-trophy.vercel.app/?username=hiddig-moha&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
