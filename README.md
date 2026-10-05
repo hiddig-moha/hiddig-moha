@@ -1,15 +1,9 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm ENG KHALIF 👋 <br>👨‍💻 Software Engineer | 🧠 Passion in mind <br>  Turning Ideas into Powerful Digital Solutions 🚀💻<br> </h1>
 
 
 
 
 
-
-
-
-
-![Wave Animation](https://waveify.onrender.com/api/wave?color=%23007CF0&height=150&speed=4&width=1200&amplitude=20&frequency=2&waveType=default)
-
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> ... I'm ENG KHALIF <br>  <br>👨‍💻 Software Engineer <br> 🧠 Passion in mind <br>  Turning Ideas into Powerful Digital Solutions 🚀💻<br> </h1>
 
 
 
@@ -19,6 +13,7 @@
 
 ![Uploading iage.png…](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NHA4ZXRsd2k5N2RpZmgzbnN6dmR6OXpraXpjanBkZWd4OXdyazd4NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bJ4TVNYNUympPgcpem/giphy.gif)
 
+![Wave Animation](https://waveify.onrender.com/api/wave?color=%23007CF0&height=150&speed=4&width=1200&amplitude=20&frequency=2&waveType=default)
 
 - 🔭 **I’m currently working on:** [Hilal Job Portal](#) — a modern platform connecting job seekers and employers.  
 - 🌱 **I’m currently learning:** Digital Marketing, Flutter  
