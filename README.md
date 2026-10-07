@@ -27,9 +27,7 @@
 
 
 
-## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=hiddig-moha&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
 
